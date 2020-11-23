@@ -153,11 +153,11 @@ h1,h2 {
 /*HEADER*/
 
 .header {
-    /*
+    
     background-color: #101112;
     background-image: url(img/Hero\ Sectionnn.png);
     background-size: cover;
-    background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
     padding-top: 90px;
     min-height: 600px;
 }
@@ -202,9 +202,9 @@ span {
 /*SECTION-SERVICES*/
 
 #services {
-    /*background-image: url(img/Services\ Section.png);
+    background-image: url(img/Services\ Section.png);
     background-size: cover;
-    background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
     padding-top: 150px;
     padding-bottom: 150px;
 }
